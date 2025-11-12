@@ -47,6 +47,31 @@ Se você acabou de chegar no time, siga estes passos para configurar seu ambient
 
 ---
 
-### 📫 Contato & Suporte
+## 📫 Contato & Suporte
 
 - **Dúvidas Técnicas:** Abra uma [Issue](#) no repositório correspondente.
+
+## 📋 Modelo de criação de Histórias
+
+
+### 📖 A História (User Story)
+**Como** [tipo de usuário: ex: admin, cliente]
+**Eu quero** [ação: ex: ver meus pontos]
+**Para que** [benefício: ex: saber se já posso trocar por prêmios]
+
+---
+
+### ✅ Critérios de Aceite (O que define "Pronto"?)
+Para essa task ser considerada concluída, o seguinte deve funcionar:
+
+- [ ] O usuário deve conseguir visualizar X...
+- [ ] Se der erro, deve aparecer a mensagem Y...
+- [ ] O layout deve seguir o protótipo...
+- [ ] Deve salvar no banco de dados...
+
+---
+
+### 🛠 Notas Técnicas / Implementação
+* **Endpoint:** `GET /api/v1/...`
+* **Tabelas afetadas:** `users`, `transactions`
+* **Obs:** Lembrar de tratar o caso quando a lista estiver vazia.
