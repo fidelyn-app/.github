@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://www.fidelyn.com" target="_blank">
+    <img src="./assets/logo-alt.png" alt="Fidelyn Logo" width="200"/>
+  </a>
+</p>
+
+
+
 # Bem-vindo ao Fidelyn 🚀
 
 Somos uma equipe focada no desenvolvimento de soluções digitais para **fidelização e engajamento de clientes**. Nosso objetivo é simplificar a conexão entre empresas e consumidores através de tecnologia ágil e escalável.
