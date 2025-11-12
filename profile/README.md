@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.fidelyn.com" target="_blank">
-    <img src="./assets/logo-alt.png" alt="Fidelyn Logo" width="200"/>
+    <img src="https://raw.githubusercontent.com/fidelyn-app/.github/refs/heads/main/profile/assets/logo.png" alt="Fidelyn Logo" width="200"/>
   </a>
 </p>
 
